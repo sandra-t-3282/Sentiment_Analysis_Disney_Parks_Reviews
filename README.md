@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Disneyland_Park_Reviews
+# Sentiment_Analysis_Disney_Parks_Reviews

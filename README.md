@@ -6,6 +6,9 @@ A dataset of over 42,000 reviews on Disney Parks from California, Paris, and Hon
 
 ## Tools and Algoirthms
 For text processing: Python libraries/tools (NLTK, spaCy, Sklearn), Regex
-For visualizations:: Matplotlib, Seaborn, WordCloud
+
+For visualizations: Matplotlib, Seaborn, WordCloud
+
 For topic Modeling: CorEx, Latent Semantic Analysis (LSA), Negative Matrix Factorization (NMF)
+
 For sentiment analysis: VADER

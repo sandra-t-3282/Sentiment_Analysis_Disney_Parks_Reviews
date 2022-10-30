@@ -4,3 +4,8 @@ This project was based on using data with primarily textual information to build
 ## Data
 A dataset of over 42,000 reviews on Disney Parks from California, Paris, and Hong Kong was obtained from Kaggle.  Reviews consisted mainly of textual data.  Each row consisted of a unique review, along with its unique ID, reviewer, date, Disney Park being reviewed, and a Rating score from 1 to 5.
 
+## Tools and Algoirthms
+For text processing: Python libraries/tools (NLTK, spaCy, Sklearn), Regex
+For visualizations:: Matplotlib, Seaborn, WordCloud
+For topic Modeling: CorEx, Latent Semantic Analysis (LSA), Negative Matrix Factorization (NMF)
+For sentiment analysis: VADER

@@ -9,7 +9,7 @@ For text processing: Python libraries/tools (NLTK, spaCy, Sklearn), Regex
 
 For visualizations: Matplotlib, Seaborn, WordCloud
 
-For topic Modeling: CorEx, Latent Semantic Analysis (LSA), Negative Matrix Factorization (NMF)
+For topic Modeling: CorEx, Latent Semantic Analysis (LSA), Non-negative Matrix Factorization (NMF)
 
 For sentiment analysis: VADER
 

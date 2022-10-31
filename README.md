@@ -1,5 +1,5 @@
 # Sentiment Analysis of Disney Parks Reviews
-There are numerous Disney fans and Disney haters around the globe.  The aim of this project is to use Natural Language Processing and Unsupervised Learning exploration of all the reviews on the Disney Parks from California, Paris, and Hong Kong to gain insight into the overall sentiment of Disney parkgoers.  To dive even deeper, we'll extract try to insight as to why reviews are positive or negative.
+There are numerous Disney fans and Disney haters around the globe.  The aim of this project is to use Natural Language Processing and Unsupervised Learning exploration of all the reviews on the Disney Parks from California, Paris, and Hong Kong to gain insight into the overall sentiment of Disney parkgoers.  To dive even deeper, we'll try to gain insight as to why reviews are positive or negative by extracting key words and do some topic modeling.
 
 ## Data
 A dataset of over 42,000 reviews on Disney Parks from California, Paris, and Hong Kong was obtained from Kaggle.  Reviews consisted mainly of textual data.  Each row consisted of a unique review, along with its unique ID, reviewer, date, Disney Park being reviewed, and a Rating score from 1 to 5.
